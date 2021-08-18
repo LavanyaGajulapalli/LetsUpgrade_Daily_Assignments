@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.a{
+    background-color: paleturquoise;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.a1{
+    background-color: darkkhaki;
+    height: 250px;
+    width: 300px;
+    align-items: center ; 
+    
+}
+
+.a2{
+    margin: 25px;
+}
+
+.b{
+    background-color: darkkhaki;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.b1{
+    background-color: paleturquoise;
+    height: 250px;
+    width: 300px;
+}
